@@ -29,7 +29,7 @@
                         <tr class="align-middle">
                             <td>{{ ++$y }}</td>
                             <td>
-                                <img src="{{ asset('storage/user/' . $x->foto) }}" style="width:100px;">
+                                <img src="{{ asset('storage/user/' . $x->foto) }}" style="width:70px;">
                             </td>
                             <td>{{ $x->nik }}</td>
                             <td>{{ $x->created_at }}</td>

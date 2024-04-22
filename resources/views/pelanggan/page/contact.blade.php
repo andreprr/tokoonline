@@ -4,20 +4,14 @@
     <div class="row mt-4 align-items-center">
         <div class="col-md-6">
             <div class="content-text">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti commodi delectus neque, quasi soluta non
-                illum, similique quisquam nostrum iusto magni aspernatur esse. Ipsa cupiditate vitae est iusto labore culpa
-                magnam fugit minima. Voluptate ipsam ad, neque voluptas ducimus perspiciatis praesentium natus iure delectus
-                eaque officia dolores iste asperiores assumenda aliquam dignissimos! Ex odit accusantium ad quaerat, omnis
-                atque
-                minus velit dicta sapiente quam vel, temporibus eligendi! Nobis, molestiae hic praesentium reiciendis
-                exercitationem in debitis quisquam. Totam dolores veritatis reprehenderit et voluptates iure, alias quam
-                consequatur in cumque saepe eius, aperiam repellat temporibus aut? Nobis quam sunt fuga perspiciatis nemo
-                reprehenderit similique tempora dolore, beatae fugiat, obcaecati expedita possimus. Quae fugit tempore,
-                obcaecati excepturi unde laudantium eveniet ratione natus. Distinctio.
+                Razerfear adalah sebuah perusahaan e-commerce yang berfokus pada menyediakan berbagai perlengkapan Baju kepada pelanggan di seluruh dunia. Didirikan pada tahun 2024, Razerfear telah tumbuh menjadi salah satu destinasi utama bagi para penggemar Baju.
+                Perusahaan ini menawarkan berbagai produk berkualitas tinggi, Selain itu, Razerfear juga menyediakan produk-produk terkait seperti merchandise resmi dari merek-merek terkemuka dalam industri Baju.
+                Dengan platform e-commerce yang responsif dan ramah pengguna, pelanggan dapat dengan mudah menelusuri katalog produk Razerfear, melakukan pembelian dengan aman, dan menikmati pengalaman belanja yang menyenangkan. Metode pembayaran yang beragam dan layanan pengiriman yang cepat dan andal juga menjadi salah satu keunggulan dari Razerfear dalam melayani pelanggan.
+                Selain fokus pada produk dan layanan, Razerfear juga memprioritaskan kepuasan pelanggan. 
             </div>
         </div>
         <div class="col-md-6">
-            <img src="{{ asset('assets/images/office-2.png') }}" style="width:100%" alt="">
+            <img src="{{ asset('assets/images/profil.png') }}" style="width:100%" alt="">
         </div>
     </div>
 
@@ -40,7 +34,9 @@
     <hr class="mb-5">
     <div class="row  mb-md-5">
         <div class="col-md-5">
-            <div class="bg-secondary" style="width: 100%; height:50vh; border-radius:10px;"></div>
+            <div class="bg-secondary" style="width: 100%; height:50vh; border-radius:10px;">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63364.11327102968!2d107.72995527327977!3d-6.978963263489808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68c477ab78ea63%3A0x401e8f1fc28c700!2sRancaekek%2C%20Bandung%20Regency%2C%20West%20Java!5e0!3m2!1sen!2sid!4v1711270678956!5m2!1sen!2sid" width="540" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
         </div>
         <div class="col-md-7">
             <div class="card">

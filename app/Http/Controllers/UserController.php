@@ -31,7 +31,6 @@ class UserController extends Controller
     public function store(UserRequest $request)
     {
         $data = new User;
-        $data->nik          = $request->nik;
         $data->name         = $request->nama;
         $data->email        = $request->email;
         $data->password     = bcrypt($request->password);

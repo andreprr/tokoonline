@@ -31,7 +31,7 @@
                 },
                 onPending: function(result) {
                     /* You may add your own implementation here */
-                    alert("wating your payment!");
+                    alert("waiting your payment!");
                     console.log(result);
                 },
                 onError: function(result) {

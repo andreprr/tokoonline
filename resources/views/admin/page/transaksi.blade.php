@@ -12,7 +12,7 @@
                         <th>Id Transaksi</th>
                         <th>Nama</th>
                         <th>Alamat</th>
-                        <th>Nilai Trx</th>
+                        <th>Total Trx</th>
                         <th>Status</th>
                     </tr>
                 </thead>
